@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "food-delivery-app",
-    "slug": "food-delivery-app",
-    "version": "1.0.0",
+    "name": "MealsOnWheels",
+    "slug": "MealsOnWheels",
+    "version": "0.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
